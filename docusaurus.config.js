@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'IBまなぶ',
   tagline: 'IB生徒の為のリソースサイト',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://501a-designs.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
