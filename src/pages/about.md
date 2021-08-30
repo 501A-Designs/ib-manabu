@@ -4,7 +4,7 @@ description: my hello page description
 hide_table_of_contents: false
 ---
 
-<img src="/static/img/Ib-manabu-favicon.png" width="100" width="100"/>
+<!-- <img src="/static/img/Ib-manabu-favicon.png" width="100" width="100" alt="IBまなぶロゴ"/> -->
 
 # IB まなぶについて
 
